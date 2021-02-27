@@ -5,4 +5,5 @@ for item in list1:
     if item not in list2:
         list2.append(item)
 
+print(list1)
 print(list2)
